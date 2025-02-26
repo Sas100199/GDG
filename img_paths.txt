@@ -1,0 +1,6 @@
+cont1 bg- https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/carousel_slides/gdev-eccosystems-bevy-homepage-background_NkWTIS3.png
+1-https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_face,h_400,q_auto:good,w_400/v1/gcs/platform-data-goog/events/devshouse%2520logo_yytM2uS.png
+2-https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_face,h_400,q_auto:good,w_400/v1/gcs/platform-data-goog/events/devshouse%2520logo_yytM2uS.png
+3-https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_face,h_400,q_auto:good,w_400/v1/gcs/platform-data-goog/events/devshouse%2520logo_yytM2uS.png
+4-https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_face,h_400,q_auto:good,w_400/v1/gcs/platform-data-goog/events/BWAI25-EventThumb-01_iFczGP2.png
+#EA4335,#0F9D58,#FBBC04,#4285F4
